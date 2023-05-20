@@ -7,8 +7,8 @@ class E {
              System.out.println("in method220"); 
                 
                 }
-                method2201() {
-             System.out.println("in method2201"); 
+                 method2200() {
+             System.out.println("in method2200"); 
                 
                 }
         }
